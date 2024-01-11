@@ -1,0 +1,407 @@
+[
+    {
+        "index": 1,
+        "prompt": "In 1896, the Summer Olympics were held in",
+        "answer": "Athens"
+    },
+    {
+        "index": 2,
+        "prompt": "The city that held the Summer Olympics in 1896 was",
+        "answer": "Athens"
+    },
+    {
+        "index": 3,
+        "prompt": "The 1896 edition of the Summer Olympics took place in",
+        "answer": "Athens"
+    },
+    {
+        "index": 4,
+        "prompt": "In 1900, the Summer Olympics were held in",
+        "answer": "Paris"
+    },
+    {
+        "index": 5,
+        "prompt": "The city that held the Summer Olympics in 1900 was",
+        "answer": "Paris"
+    },
+    {
+        "index": 6,
+        "prompt": "The 1900 edition of the Summer Olympics took place in",
+        "answer": "Paris"
+    },
+    {
+        "index": 7,
+        "prompt": "In 1904, the Summer Olympics were held in",
+        "answer": "St Louis"
+    },
+    {
+        "index": 8,
+        "prompt": "The city that held the Summer Olympics in 1904 was",
+        "answer": "St Louis"
+    },
+    {
+        "index": 9,
+        "prompt": "The 1904 edition of the Summer Olympics took place in",
+        "answer": "St Louis"
+    },
+    {
+        "index": 10,
+        "prompt": "In 1908, the Summer Olympics were held in",
+        "answer": "London"
+    },
+    {
+        "index": 11,
+        "prompt": "The city that held the Summer Olympics in 1908 was",
+        "answer": "London"
+    },
+    {
+        "index": 12,
+        "prompt": "The 1908 edition of the Summer Olympics took place in",
+        "answer": "London"
+    },
+    {
+        "index": 13,
+        "prompt": "In 1912, the Summer Olympics were held in",
+        "answer": "Stockholm"
+    },
+    {
+        "index": 14,
+        "prompt": "The city that held the Summer Olympics in 1912 was",
+        "answer": "Stockholm"
+    },
+    {
+        "index": 15,
+        "prompt": "The 1912 edition of the Summer Olympics took place in",
+        "answer": "Stockholm"
+    },
+    {
+        "index": 16,
+        "prompt": "In 1920, the Summer Olympics were held in",
+        "answer": "Antwerp"
+    },
+    {
+        "index": 17,
+        "prompt": "The city that held the Summer Olympics in 1920 was",
+        "answer": "Antwerp"
+    },
+    {
+        "index": 18,
+        "prompt": "The 1920 edition of the Summer Olympics took place in",
+        "answer": "Antwerp"
+    },
+    {
+        "index": 19,
+        "prompt": "In 1924, the Summer Olympics were held in",
+        "answer": "Paris"
+    },
+    {
+        "index": 20,
+        "prompt": "The city that held the Summer Olympics in 1924 was",
+        "answer": "Paris"
+    },
+    {
+        "index": 21,
+        "prompt": "The 1924 edition of the Summer Olympics took place in",
+        "answer": "Paris"
+    },
+    {
+        "index": 22,
+        "prompt": "In 1928, the Summer Olympics were held in",
+        "answer": "Amsterdam"
+    },
+    {
+        "index": 23,
+        "prompt": "The city that held the Summer Olympics in 1928 was",
+        "answer": "Amsterdam"
+    },
+    {
+        "index": 24,
+        "prompt": "The 1928 edition of the Summer Olympics took place in",
+        "answer": "Amsterdam"
+    },
+    {
+        "index": 25,
+        "prompt": "In 1932, the Summer Olympics were held in",
+        "answer": "Los Angeles"
+    },
+    {
+        "index": 26,
+        "prompt": "The city that held the Summer Olympics in 1932 was",
+        "answer": "Los Angeles"
+    },
+    {
+        "index": 27,
+        "prompt": "The 1932 edition of the Summer Olympics took place in",
+        "answer": "Los Angeles"
+    },
+    {
+        "index": 28,
+        "prompt": "In 1936, the Summer Olympics were held in",
+        "answer": "Berlin"
+    },
+    {
+        "index": 29,
+        "prompt": "The city that held the Summer Olympics in 1936 was",
+        "answer": "Berlin"
+    },
+    {
+        "index": 30,
+        "prompt": "The 1936 edition of the Summer Olympics took place in",
+        "answer": "Berlin"
+    },
+    {
+        "index": 31,
+        "prompt": "In 1948, the Summer Olympics were held in",
+        "answer": "London"
+    },
+    {
+        "index": 32,
+        "prompt": "The city that held the Summer Olympics in 1948 was",
+        "answer": "London"
+    },
+    {
+        "index": 33,
+        "prompt": "The 1948 edition of the Summer Olympics took place in",
+        "answer": "London"
+    },
+    {
+        "index": 34,
+        "prompt": "In 1952, the Summer Olympics were held in",
+        "answer": "Helsinki"
+    },
+    {
+        "index": 35,
+        "prompt": "The city that held the Summer Olympics in 1952 was",
+        "answer": "Helsinki"
+    },
+    {
+        "index": 36,
+        "prompt": "The 1952 edition of the Summer Olympics took place in",
+        "answer": "Helsinki"
+    },
+    {
+        "index": 37,
+        "prompt": "In 1956, the Summer Olympics were held in",
+        "answer": "Melbourne / Stockholm"
+    },
+    {
+        "index": 38,
+        "prompt": "The city that held the Summer Olympics in 1956 was",
+        "answer": "Melbourne / Stockholm"
+    },
+    {
+        "index": 39,
+        "prompt": "The 1956 edition of the Summer Olympics took place in",
+        "answer": "Melbourne / Stockholm"
+    },
+    {
+        "index": 40,
+        "prompt": "In 1960, the Summer Olympics were held in",
+        "answer": "Rome"
+    },
+    {
+        "index": 41,
+        "prompt": "The city that held the Summer Olympics in 1960 was",
+        "answer": "Rome"
+    },
+    {
+        "index": 42,
+        "prompt": "The 1960 edition of the Summer Olympics took place in",
+        "answer": "Rome"
+    },
+    {
+        "index": 43,
+        "prompt": "In 1964, the Summer Olympics were held in",
+        "answer": "Tokyo"
+    },
+    {
+        "index": 44,
+        "prompt": "The city that held the Summer Olympics in 1964 was",
+        "answer": "Tokyo"
+    },
+    {
+        "index": 45,
+        "prompt": "The 1964 edition of the Summer Olympics took place in",
+        "answer": "Tokyo"
+    },
+    {
+        "index": 46,
+        "prompt": "In 1968, the Summer Olympics were held in",
+        "answer": "Mexico"
+    },
+    {
+        "index": 47,
+        "prompt": "The city that held the Summer Olympics in 1968 was",
+        "answer": "Mexico"
+    },
+    {
+        "index": 48,
+        "prompt": "The 1968 edition of the Summer Olympics took place in",
+        "answer": "Mexico"
+    },
+    {
+        "index": 49,
+        "prompt": "In 1972, the Summer Olympics were held in",
+        "answer": "Munich"
+    },
+    {
+        "index": 50,
+        "prompt": "The city that held the Summer Olympics in 1972 was",
+        "answer": "Munich"
+    },
+    {
+        "index": 51,
+        "prompt": "The 1972 edition of the Summer Olympics took place in",
+        "answer": "Munich"
+    },
+    {
+        "index": 52,
+        "prompt": "In 1976, the Summer Olympics were held in",
+        "answer": "Montreal"
+    },
+    {
+        "index": 53,
+        "prompt": "The city that held the Summer Olympics in 1976 was",
+        "answer": "Montreal"
+    },
+    {
+        "index": 54,
+        "prompt": "The 1976 edition of the Summer Olympics took place in",
+        "answer": "Montreal"
+    },
+    {
+        "index": 55,
+        "prompt": "In 1980, the Summer Olympics were held in",
+        "answer": "Moscow"
+    },
+    {
+        "index": 56,
+        "prompt": "The city that held the Summer Olympics in 1980 was",
+        "answer": "Moscow"
+    },
+    {
+        "index": 57,
+        "prompt": "The 1980 edition of the Summer Olympics took place in",
+        "answer": "Moscow"
+    },
+    {
+        "index": 58,
+        "prompt": "In 1984, the Summer Olympics were held in",
+        "answer": "Los Angeles"
+    },
+    {
+        "index": 59,
+        "prompt": "The city that held the Summer Olympics in 1984 was",
+        "answer": "Los Angeles"
+    },
+    {
+        "index": 60,
+        "prompt": "The 1984 edition of the Summer Olympics took place in",
+        "answer": "Los Angeles"
+    },
+    {
+        "index": 61,
+        "prompt": "In 1988, the Summer Olympics were held in",
+        "answer": "Seoul"
+    },
+    {
+        "index": 62,
+        "prompt": "The city that held the Summer Olympics in 1988 was",
+        "answer": "Seoul"
+    },
+    {
+        "index": 63,
+        "prompt": "The 1988 edition of the Summer Olympics took place in",
+        "answer": "Seoul"
+    },
+    {
+        "index": 64,
+        "prompt": "In 1992, the Summer Olympics were held in",
+        "answer": "Barcelona"
+    },
+    {
+        "index": 65,
+        "prompt": "The city that held the Summer Olympics in 1992 was",
+        "answer": "Barcelona"
+    },
+    {
+        "index": 66,
+        "prompt": "The 1992 edition of the Summer Olympics took place in",
+        "answer": "Barcelona"
+    },
+    {
+        "index": 67,
+        "prompt": "In 1996, the Summer Olympics were held in",
+        "answer": "Atlanta"
+    },
+    {
+        "index": 68,
+        "prompt": "The city that held the Summer Olympics in 1996 was",
+        "answer": "Atlanta"
+    },
+    {
+        "index": 69,
+        "prompt": "The 1996 edition of the Summer Olympics took place in",
+        "answer": "Atlanta"
+    },
+    {
+        "index": 70,
+        "prompt": "In 2000, the Summer Olympics were held in",
+        "answer": "Sydney"
+    },
+    {
+        "index": 71,
+        "prompt": "The city that held the Summer Olympics in 2000 was",
+        "answer": "Sydney"
+    },
+    {
+        "index": 72,
+        "prompt": "The 2000 edition of the Summer Olympics took place in",
+        "answer": "Sydney"
+    },
+    {
+        "index": 73,
+        "prompt": "In 2004, the Summer Olympics were held in",
+        "answer": "Athens"
+    },
+    {
+        "index": 74,
+        "prompt": "The city that held the Summer Olympics in 2004 was",
+        "answer": "Athens"
+    },
+    {
+        "index": 75,
+        "prompt": "The 2004 edition of the Summer Olympics took place in",
+        "answer": "Athens"
+    },
+    {
+        "index": 76,
+        "prompt": "In 2008, the Summer Olympics were held in",
+        "answer": "Beijing"
+    },
+    {
+        "index": 77,
+        "prompt": "The city that held the Summer Olympics in 2008 was",
+        "answer": "Beijing"
+    },
+    {
+        "index": 78,
+        "prompt": "The 2008 edition of the Summer Olympics took place in",
+        "answer": "Beijing"
+    },
+    {
+        "index": 79,
+        "prompt": "In 2012, the Summer Olympics were held in",
+        "answer": "London"
+    },
+    {
+        "index": 80,
+        "prompt": "The city that held the Summer Olympics in 2012 was",
+        "answer": "London"
+    },
+    {
+        "index": 81,
+        "prompt": "The 2012 edition of the Summer Olympics took place in",
+        "answer": "London"
+    }
+]

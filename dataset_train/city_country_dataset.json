@@ -1,0 +1,2138 @@
+[
+    {
+        "index": 1,
+        "prompt": "The city Catania is located in the country of",
+        "answer": "Italy",
+        "id": 1
+    },
+    {
+        "index": 2,
+        "prompt": "The city Dar es Salaam is located in the country of",
+        "answer": "Tanzania",
+        "id": 2
+    },
+    {
+        "index": 3,
+        "prompt": "The city Khartoum is located in the country of",
+        "answer": "Sudan",
+        "id": 3
+    },
+    {
+        "index": 4,
+        "prompt": "The city Whitehorse is located in the country of",
+        "answer": "Canada",
+        "id": 4
+    },
+    {
+        "index": 5,
+        "prompt": "The city Leipzig is located in the country of",
+        "answer": "Germany",
+        "id": 5
+    },
+    {
+        "index": 6,
+        "prompt": "The city Sanaa is located in the country of",
+        "answer": "Yemen",
+        "id": 6
+    },
+    {
+        "index": 7,
+        "prompt": "The city Skierniewice is located in the country of",
+        "answer": "Poland",
+        "id": 7
+    },
+    {
+        "index": 8,
+        "prompt": "The city Madrid is located in the country of",
+        "answer": "Spain",
+        "id": 8
+    },
+    {
+        "index": 9,
+        "prompt": "The city Brasília is located in the country of",
+        "answer": "Brazil",
+        "id": 9
+    },
+    {
+        "index": 10,
+        "prompt": "The city Lima is located in the country of",
+        "answer": "Peru",
+        "id": 10
+    },
+    {
+        "index": 11,
+        "prompt": "The city Asunción is located in the country of",
+        "answer": "Paraguay",
+        "id": 11
+    },
+    {
+        "index": 12,
+        "prompt": "The city Paramaribo is located in the country of",
+        "answer": "Suriname",
+        "id": 12
+    },
+    {
+        "index": 13,
+        "prompt": "The city Kathmandu is located in the country of",
+        "answer": "Nepal",
+        "id": 13
+    },
+    {
+        "index": 14,
+        "prompt": "The city Belmopan is located in the country of",
+        "answer": "Belize",
+        "id": 14
+    },
+    {
+        "index": 15,
+        "prompt": "The city Canberra is located in the country of",
+        "answer": "Australia",
+        "id": 15
+    },
+    {
+        "index": 16,
+        "prompt": "The city Panama City is located in the country of",
+        "answer": "Panama",
+        "id": 16
+    },
+    {
+        "index": 17,
+        "prompt": "The city Zadar is located in the country of",
+        "answer": "Croatia",
+        "id": 17
+    },
+    {
+        "index": 18,
+        "prompt": "The city Rabat is located in the country of",
+        "answer": "Morocco",
+        "id": 18
+    },
+    {
+        "index": 19,
+        "prompt": "The city Algiers is located in the country of",
+        "answer": "Algeria",
+        "id": 19
+    },
+    {
+        "index": 20,
+        "prompt": "The city Tripoli is located in the country of",
+        "answer": "Libya",
+        "id": 20
+    },
+    {
+        "index": 21,
+        "prompt": "The city Andacollo is located in the country of",
+        "answer": "Chile",
+        "id": 21
+    },
+    {
+        "index": 22,
+        "prompt": "The city Djibouti is located in the country of",
+        "answer": "Djibouti",
+        "id": 22
+    },
+    {
+        "index": 23,
+        "prompt": "The city Sapinuwa is located in the country of",
+        "answer": "Turkey",
+        "id": 23
+    },
+    {
+        "index": 24,
+        "prompt": "The city Asmara is located in the country of",
+        "answer": "Eritrea",
+        "id": 24
+    },
+    {
+        "index": 25,
+        "prompt": "The city Krasnodar is located in the country of",
+        "answer": "Russia",
+        "id": 25
+    },
+    {
+        "index": 26,
+        "prompt": "The city Rietavas is located in the country of",
+        "answer": "Lithuania",
+        "id": 26
+    },
+    {
+        "index": 27,
+        "prompt": "The city N'Djamena is located in the country of",
+        "answer": "Chad",
+        "id": 27
+    },
+    {
+        "index": 28,
+        "prompt": "The city Niamey is located in the country of",
+        "answer": "Niger",
+        "id": 28
+    },
+    {
+        "index": 29,
+        "prompt": "The city Nouakchott is located in the country of",
+        "answer": "Mauritania",
+        "id": 29
+    },
+    {
+        "index": 30,
+        "prompt": "The city Bamako is located in the country of",
+        "answer": "Mali",
+        "id": 30
+    },
+    {
+        "index": 31,
+        "prompt": "The city Belgrade is located in the country of",
+        "answer": "Serbia",
+        "id": 31
+    },
+    {
+        "index": 32,
+        "prompt": "The city Conakry is located in the country of",
+        "answer": "Guinea",
+        "id": 32
+    },
+    {
+        "index": 33,
+        "prompt": "The city Bissau is located in the country of",
+        "answer": "Guinea-Bissau",
+        "id": 33
+    },
+    {
+        "index": 34,
+        "prompt": "The city Monrovia is located in the country of",
+        "answer": "Liberia",
+        "id": 34
+    },
+    {
+        "index": 35,
+        "prompt": "The city Accra is located in the country of",
+        "answer": "Ghana",
+        "id": 35
+    },
+    {
+        "index": 36,
+        "prompt": "The city Damascus is located in the country of",
+        "answer": "Syria",
+        "id": 36
+    },
+    {
+        "index": 37,
+        "prompt": "The city Abuja is located in the country of",
+        "answer": "Nigeria",
+        "id": 37
+    },
+    {
+        "index": 38,
+        "prompt": "The city Lomé is located in the country of",
+        "answer": "Togo",
+        "id": 38
+    },
+    {
+        "index": 39,
+        "prompt": "The city Porto-Novo is located in the country of",
+        "answer": "Benin",
+        "id": 39
+    },
+    {
+        "index": 40,
+        "prompt": "The city Amman is located in the country of",
+        "answer": "Jordan",
+        "id": 40
+    },
+    {
+        "index": 41,
+        "prompt": "The city Libreville is located in the country of",
+        "answer": "Gabon",
+        "id": 41
+    },
+    {
+        "index": 42,
+        "prompt": "The city Bujumbura is located in the country of",
+        "answer": "Burundi",
+        "id": 42
+    },
+    {
+        "index": 43,
+        "prompt": "The city Lilongwe is located in the country of",
+        "answer": "Malawi",
+        "id": 43
+    },
+    {
+        "index": 44,
+        "prompt": "The city Lusaka is located in the country of",
+        "answer": "Zambia",
+        "id": 44
+    },
+    {
+        "index": 45,
+        "prompt": "The city Manama is located in the country of",
+        "answer": "Bahrain",
+        "id": 45
+    },
+    {
+        "index": 46,
+        "prompt": "The city Maputo is located in the country of",
+        "answer": "Mozambique",
+        "id": 46
+    },
+    {
+        "index": 47,
+        "prompt": "The city Kampala is located in the country of",
+        "answer": "Uganda",
+        "id": 47
+    },
+    {
+        "index": 48,
+        "prompt": "The city Luanda is located in the country of",
+        "answer": "Angola",
+        "id": 48
+    },
+    {
+        "index": 49,
+        "prompt": "The city Moroni is located in the country of",
+        "answer": "Comoros",
+        "id": 49
+    },
+    {
+        "index": 50,
+        "prompt": "The city Mbabane is located in the country of",
+        "answer": "Eswatini",
+        "id": 50
+    },
+    {
+        "index": 51,
+        "prompt": "The city Maseru is located in the country of",
+        "answer": "Lesotho",
+        "id": 51
+    },
+    {
+        "index": 52,
+        "prompt": "The city Harare is located in the country of",
+        "answer": "Zimbabwe",
+        "id": 52
+    },
+    {
+        "index": 53,
+        "prompt": "The city Port Louis is located in the country of",
+        "answer": "Mauritius",
+        "id": 53
+    },
+    {
+        "index": 54,
+        "prompt": "The city Windhoek is located in the country of",
+        "answer": "Namibia",
+        "id": 54
+    },
+    {
+        "index": 55,
+        "prompt": "The city Victoria is located in the country of",
+        "answer": "Seychelles",
+        "id": 55
+    },
+    {
+        "index": 56,
+        "prompt": "The city Liège is located in the country of",
+        "answer": "Belgium",
+        "id": 56
+    },
+    {
+        "index": 57,
+        "prompt": "The city Farrukhabad is located in the country of",
+        "answer": "India",
+        "id": 57
+    },
+    {
+        "index": 58,
+        "prompt": "The city Barquisimeto is located in the country of",
+        "answer": "Venezuela",
+        "id": 58
+    },
+    {
+        "index": 59,
+        "prompt": "The city Calimete is located in the country of",
+        "answer": "Cuba",
+        "id": 59
+    },
+    {
+        "index": 60,
+        "prompt": "The city Novo Mesto is located in the country of",
+        "answer": "Slovenia",
+        "id": 60
+    },
+    {
+        "index": 61,
+        "prompt": "The city Mary is located in the country of",
+        "answer": "Turkmenistan",
+        "id": 61
+    },
+    {
+        "index": 62,
+        "prompt": "The city Samarkand is located in the country of",
+        "answer": "Uzbekistan",
+        "id": 62
+    },
+    {
+        "index": 63,
+        "prompt": "The city Thebes is located in the country of",
+        "answer": "Greece",
+        "id": 63
+    },
+    {
+        "index": 64,
+        "prompt": "The city Axum is located in the country of",
+        "answer": "Ethiopia",
+        "id": 64
+    },
+    {
+        "index": 65,
+        "prompt": "The city Kabul is located in the country of",
+        "answer": "Afghanistan",
+        "id": 65
+    },
+    {
+        "index": 66,
+        "prompt": "The city Alajärvi is located in the country of",
+        "answer": "Finland",
+        "id": 66
+    },
+    {
+        "index": 67,
+        "prompt": "The city Avignon is located in the country of",
+        "answer": "France",
+        "id": 67
+    },
+    {
+        "index": 68,
+        "prompt": "The city Lugano is located in the country of",
+        "answer": "Switzerland",
+        "id": 68
+    },
+    {
+        "index": 69,
+        "prompt": "The city Yogyakarta City is located in the country of",
+        "answer": "Indonesia",
+        "id": 69
+    },
+    {
+        "index": 70,
+        "prompt": "The city Cairo is located in the country of",
+        "answer": "Egypt",
+        "id": 70
+    },
+    {
+        "index": 71,
+        "prompt": "The city Nuuk is located in the country of",
+        "answer": "Greenland",
+        "id": 71
+    },
+    {
+        "index": 72,
+        "prompt": "The city Singapore is located in the country of",
+        "answer": "Singapore",
+        "id": 72
+    },
+    {
+        "index": 73,
+        "prompt": "The city Oslo is located in the country of",
+        "answer": "Norway",
+        "id": 73
+    },
+    {
+        "index": 74,
+        "prompt": "The city Amsterdam is located in the country of",
+        "answer": "Netherlands",
+        "id": 74
+    },
+    {
+        "index": 75,
+        "prompt": "The city Tbilisi is located in the country of",
+        "answer": "Georgia",
+        "id": 75
+    },
+    {
+        "index": 76,
+        "prompt": "The city Jerusalem is located in the country of",
+        "answer": "Israel",
+        "id": 76
+    },
+    {
+        "index": 77,
+        "prompt": "The city Montevideo is located in the country of",
+        "answer": "Uruguay",
+        "id": 77
+    },
+    {
+        "index": 78,
+        "prompt": "The city Dhaka is located in the country of",
+        "answer": "Bangladesh",
+        "id": 78
+    },
+    {
+        "index": 79,
+        "prompt": "The city Islamabad is located in the country of",
+        "answer": "Pakistan",
+        "id": 79
+    },
+    {
+        "index": 80,
+        "prompt": "The city Gibraltar is located in the country of",
+        "answer": "Gibraltar",
+        "id": 80
+    },
+    {
+        "index": 81,
+        "prompt": "The city Buenos Aires is located in the country of",
+        "answer": "Argentina",
+        "id": 81
+    },
+    {
+        "index": 82,
+        "prompt": "The city Mexico City is located in the country of",
+        "answer": "Mexico",
+        "id": 82
+    },
+    {
+        "index": 83,
+        "prompt": "The city Guatemala City is located in the country of",
+        "answer": "Guatemala",
+        "id": 83
+    },
+    {
+        "index": 84,
+        "prompt": "The city Innsbruck is located in the country of",
+        "answer": "Austria",
+        "id": 84
+    },
+    {
+        "index": 85,
+        "prompt": "The city Stockholm is located in the country of",
+        "answer": "Sweden",
+        "id": 85
+    },
+    {
+        "index": 86,
+        "prompt": "The city Reykjavík is located in the country of",
+        "answer": "Iceland",
+        "id": 86
+    },
+    {
+        "index": 87,
+        "prompt": "The city Bratislava is located in the country of",
+        "answer": "Slovakia",
+        "id": 87
+    },
+    {
+        "index": 88,
+        "prompt": "The city Luxembourg is located in the country of",
+        "answer": "Luxembourg",
+        "id": 88
+    },
+    {
+        "index": 89,
+        "prompt": "The city Phnom Penh is located in the country of",
+        "answer": "Cambodia",
+        "id": 89
+    },
+    {
+        "index": 90,
+        "prompt": "The city Ho Chi Minh City is located in the country of",
+        "answer": "Vietnam",
+        "id": 90
+    },
+    {
+        "index": 91,
+        "prompt": "The city Bangkok is located in the country of",
+        "answer": "Thailand",
+        "id": 91
+    },
+    {
+        "index": 92,
+        "prompt": "The city Andorra la Vella is located in the country of",
+        "answer": "Andorra",
+        "id": 92
+    },
+    {
+        "index": 93,
+        "prompt": "The city Kuala Lumpur is located in the country of",
+        "answer": "Malaysia",
+        "id": 93
+    },
+    {
+        "index": 94,
+        "prompt": "The city Taipei is located in the country of",
+        "answer": "Taiwan",
+        "id": 94
+    },
+    {
+        "index": 95,
+        "prompt": "The city Patos is located in the country of",
+        "answer": "Albania",
+        "id": 95
+    },
+    {
+        "index": 96,
+        "prompt": "The city Hørsholm is located in the country of",
+        "answer": "Denmark",
+        "id": 96
+    },
+    {
+        "index": 97,
+        "prompt": "The city Chișinău is located in the country of",
+        "answer": "Moldova",
+        "id": 97
+    },
+    {
+        "index": 98,
+        "prompt": "The city Ulaanbaatar is located in the country of",
+        "answer": "Mongolia",
+        "id": 98
+    },
+    {
+        "index": 99,
+        "prompt": "The city Podgorica is located in the country of",
+        "answer": "Montenegro",
+        "id": 99
+    },
+    {
+        "index": 100,
+        "prompt": "The city Arabsiyo is located in the country of",
+        "answer": "Somalia",
+        "id": 100
+    },
+    {
+        "index": 101,
+        "prompt": "The city Prishtina is located in the country of",
+        "answer": "Kosovo",
+        "id": 101
+    },
+    {
+        "index": 102,
+        "prompt": "The city Marjayoun is located in the country of",
+        "answer": "Lebanon",
+        "id": 102
+    },
+    {
+        "index": 103,
+        "prompt": "The city Thimphu is located in the country of",
+        "answer": "Bhutan",
+        "id": 103
+    },
+    {
+        "index": 104,
+        "prompt": "The city Bandar Seri Begawan is located in the country of",
+        "answer": "Brunei",
+        "id": 104
+    },
+    {
+        "index": 105,
+        "prompt": "The city Malé is located in the country of",
+        "answer": "Maldives",
+        "id": 105
+    },
+    {
+        "index": 106,
+        "prompt": "The city Dushanbe is located in the country of",
+        "answer": "Tajikistan",
+        "id": 106
+    },
+    {
+        "index": 107,
+        "prompt": "The city Georgetown is located in the country of",
+        "answer": "Guyana",
+        "id": 107
+    },
+    {
+        "index": 108,
+        "prompt": "The city Maebashi is located in the country of",
+        "answer": "Japan",
+        "id": 108
+    },
+    {
+        "index": 109,
+        "prompt": "The city Ziguinchor is located in the country of",
+        "answer": "Senegal",
+        "id": 109
+    },
+    {
+        "index": 110,
+        "prompt": "The city Granada is located in the country of",
+        "answer": "Nicaragua",
+        "id": 110
+    },
+    {
+        "index": 111,
+        "prompt": "The city Kyrenia is located in the country of",
+        "answer": "Cyprus",
+        "id": 111
+    },
+    {
+        "index": 112,
+        "prompt": "The city Samborondón is located in the country of",
+        "answer": "Ecuador",
+        "id": 112
+    },
+    {
+        "index": 113,
+        "prompt": "The city Mediaș is located in the country of",
+        "answer": "Romania",
+        "id": 113
+    },
+    {
+        "index": 114,
+        "prompt": "The city Gouyave is located in the country of",
+        "answer": "Grenada",
+        "id": 114
+    },
+    {
+        "index": 115,
+        "prompt": "The city Valledupar is located in the country of",
+        "answer": "Colombia",
+        "id": 115
+    },
+    {
+        "index": 116,
+        "prompt": "The city Şəmkir is located in the country of",
+        "answer": "Azerbaijan",
+        "id": 116
+    },
+    {
+        "index": 117,
+        "prompt": "The city Byumba is located in the country of",
+        "answer": "Rwanda",
+        "id": 117
+    },
+    {
+        "index": 118,
+        "prompt": "The city Pinya is located in the country of",
+        "answer": "Myanmar",
+        "id": 118
+    },
+    {
+        "index": 119,
+        "prompt": "The city Bulayevo is located in the country of",
+        "answer": "Kazakhstan",
+        "id": 119
+    },
+    {
+        "index": 120,
+        "prompt": "The city Hamilton is located in the country of",
+        "answer": "Bermuda",
+        "id": 120
+    },
+    {
+        "index": 121,
+        "prompt": "The city Plymouth is located in the country of",
+        "answer": "Montserrat",
+        "id": 121
+    },
+    {
+        "index": 122,
+        "prompt": "The city The Valley is located in the country of",
+        "answer": "Anguilla",
+        "id": 122
+    },
+    {
+        "index": 123,
+        "prompt": "The city El Alto is located in the country of",
+        "answer": "Bolivia",
+        "id": 123
+    },
+    {
+        "index": 124,
+        "prompt": "The city Funafuti is located in the country of",
+        "answer": "Tuvalu",
+        "id": 124
+    },
+    {
+        "index": 125,
+        "prompt": "The city Kingston is located in the country of",
+        "answer": "Jamaica",
+        "id": 125
+    },
+    {
+        "index": 126,
+        "prompt": "The city Kuwait City is located in the country of",
+        "answer": "Kuwait",
+        "id": 126
+    },
+    {
+        "index": 127,
+        "prompt": "The city Bridgetown is located in the country of",
+        "answer": "Barbados",
+        "id": 127
+    },
+    {
+        "index": 128,
+        "prompt": "The city Lebedyn is located in the country of",
+        "answer": "Ukraine",
+        "id": 128
+    },
+    {
+        "index": 129,
+        "prompt": "The city Batken is located in the country of",
+        "answer": "Kyrgyzstan",
+        "id": 129
+    },
+    {
+        "index": 130,
+        "prompt": "The city Olivenza is located in the country of",
+        "answer": "Portugal",
+        "id": 130
+    },
+    {
+        "index": 131,
+        "prompt": "The city Gotse Delchev is located in the country of",
+        "answer": "Bulgaria",
+        "id": 131
+    },
+    {
+        "index": 132,
+        "prompt": "The city Dvin is located in the country of",
+        "answer": "Armenia",
+        "id": 132
+    },
+    {
+        "index": 133,
+        "prompt": "The city Dvin is located in the country of",
+        "answer": "Persarmenia",
+        "id": 133
+    },
+    {
+        "index": 134,
+        "prompt": "The city Ambanja is located in the country of",
+        "answer": "Madagascar",
+        "id": 134
+    },
+    {
+        "index": 135,
+        "prompt": "The city Amedi is located in the country of",
+        "answer": "Iraq",
+        "id": 135
+    },
+    {
+        "index": 136,
+        "prompt": "The city Monastir is located in the country of",
+        "answer": "Tunisia",
+        "id": 136
+    },
+    {
+        "index": 137,
+        "prompt": "The city Kisumu is located in the country of",
+        "answer": "Kenya",
+        "id": 137
+    },
+    {
+        "index": 138,
+        "prompt": "The city Apia is located in the country of",
+        "answer": "Samoa",
+        "id": 138
+    },
+    {
+        "index": 139,
+        "prompt": "The city Roseau is located in the country of",
+        "answer": "Dominica",
+        "id": 139
+    },
+    {
+        "index": 140,
+        "prompt": "The city Port Vila is located in the country of",
+        "answer": "Vanuatu",
+        "id": 140
+    },
+    {
+        "index": 141,
+        "prompt": "The city Suva is located in the country of",
+        "answer": "Fiji",
+        "id": 141
+    },
+    {
+        "index": 142,
+        "prompt": "The city Nuku'alofa is located in the country of",
+        "answer": "Tonga",
+        "id": 142
+    },
+    {
+        "index": 143,
+        "prompt": "The city Gabane is located in the country of",
+        "answer": "Botswana",
+        "id": 143
+    },
+    {
+        "index": 144,
+        "prompt": "The city Birkirkara is located in the country of",
+        "answer": "Malta",
+        "id": 144
+    },
+    {
+        "index": 145,
+        "prompt": "The city Trujillo is located in the country of",
+        "answer": "Honduras",
+        "id": 145
+    },
+    {
+        "index": 146,
+        "prompt": "The city Idenau is located in the country of",
+        "answer": "Cameroon",
+        "id": 146
+    },
+    {
+        "index": 147,
+        "prompt": "The city Rîbnița is located in the country of",
+        "answer": "Transnistria",
+        "id": 147
+    },
+    {
+        "index": 148,
+        "prompt": "The city Cap-Haïtien is located in the country of",
+        "answer": "Haiti",
+        "id": 148
+    },
+    {
+        "index": 149,
+        "prompt": "The city Ngerulmud is located in the country of",
+        "answer": "Palau",
+        "id": 149
+    },
+    {
+        "index": 150,
+        "prompt": "The city Rustaq is located in the country of",
+        "answer": "Oman",
+        "id": 150
+    },
+    {
+        "index": 151,
+        "prompt": "The city Dunakeszi is located in the country of",
+        "answer": "Hungary",
+        "id": 151
+    },
+    {
+        "index": 152,
+        "prompt": "The city Borama is located in the country of",
+        "answer": "Somaliland",
+        "id": 152
+    },
+    {
+        "index": 153,
+        "prompt": "The city Toplița is located in the country of",
+        "answer": "Austria-Hungary",
+        "id": 153
+    },
+    {
+        "index": 154,
+        "prompt": "The city Lusail is located in the country of",
+        "answer": "Qatar",
+        "id": 154
+    },
+    {
+        "index": 155,
+        "prompt": "The city Hsinking is located in the country of",
+        "answer": "Manchukuo",
+        "id": 155
+    },
+    {
+        "index": 156,
+        "prompt": "The city Babel is located in the country of",
+        "answer": "Mesopotamia",
+        "id": 156
+    },
+    {
+        "index": 157,
+        "prompt": "The city Phongsālī is located in the country of",
+        "answer": "Laos",
+        "id": 157
+    },
+    {
+        "index": 158,
+        "prompt": "The city Tajrish is located in the country of",
+        "answer": "Iran",
+        "id": 158
+    },
+    {
+        "index": 159,
+        "prompt": "The city South Tarawa is located in the country of",
+        "answer": "Kiribati",
+        "id": 159
+    },
+    {
+        "index": 160,
+        "prompt": "The city Oranjestad is located in the country of",
+        "answer": "Aruba",
+        "id": 160
+    },
+    {
+        "index": 161,
+        "prompt": "The city Willemstad is located in the country of",
+        "answer": "Curaçao",
+        "id": 161
+    },
+    {
+        "index": 162,
+        "prompt": "The city Hanseongbu is located in the country of",
+        "answer": "Joseon",
+        "id": 162
+    },
+    {
+        "index": 163,
+        "prompt": "The city Atafu is located in the country of",
+        "answer": "Tokelau",
+        "id": 163
+    },
+    {
+        "index": 164,
+        "prompt": "The city Jolbon is located in the country of",
+        "answer": "Goguryeo",
+        "id": 164
+    },
+    {
+        "index": 165,
+        "prompt": "The city Bulawayo is located in the country of",
+        "answer": "Rhodesia",
+        "id": 165
+    },
+    {
+        "index": 166,
+        "prompt": "The city Xianyang is located in the country of",
+        "answer": "Qin",
+        "id": 166
+    },
+    {
+        "index": 167,
+        "prompt": "The city Kutha is located in the country of",
+        "answer": "Babylonia",
+        "id": 167
+    },
+    {
+        "index": 168,
+        "prompt": "The city Hyria is located in the country of",
+        "answer": "Messapia",
+        "id": 168
+    },
+    {
+        "index": 169,
+        "prompt": "The city Garowe is located in the country of",
+        "answer": "Puntland",
+        "id": 169
+    },
+    {
+        "index": 170,
+        "prompt": "The city Zhaoge is located in the country of",
+        "answer": "Wey",
+        "id": 170
+    },
+    {
+        "index": 171,
+        "prompt": "The city Yanjing is located in the country of",
+        "answer": "Yan",
+        "id": 171
+    },
+    {
+        "index": 172,
+        "prompt": "The city Calvar is located in the country of",
+        "answer": "Hittites",
+        "id": 172
+    },
+    {
+        "index": 173,
+        "prompt": "The city Pabilgaltuk is located in the country of",
+        "answer": "Sumer",
+        "id": 173
+    },
+    {
+        "index": 174,
+        "prompt": "The city Nueva Cáceres is located in the country of",
+        "answer": "Philippines",
+        "id": 174
+    },
+    {
+        "index": 175,
+        "prompt": "The city Danyang is located in the country of",
+        "answer": "Chu",
+        "id": 175
+    },
+    {
+        "index": 176,
+        "prompt": "The city Cordero is located in the country of",
+        "answer": "Urbina",
+        "id": 176
+    },
+    {
+        "index": 177,
+        "prompt": "The city Dokimeion is located in the country of",
+        "answer": "Phrygia",
+        "id": 177
+    },
+    {
+        "index": 178,
+        "prompt": "The city Iim is located in the country of",
+        "answer": "Judah",
+        "id": 178
+    },
+    {
+        "index": 179,
+        "prompt": "The city Neuros is located in the country of",
+        "answer": "Scythia",
+        "id": 179
+    },
+    {
+        "index": 180,
+        "prompt": "The city Gades is located in the country of",
+        "answer": "Phoenicia",
+        "id": 180
+    },
+    {
+        "index": 181,
+        "prompt": "The city Daliang is located in the country of",
+        "answer": "Wei",
+        "id": 181
+    },
+    {
+        "index": 182,
+        "prompt": "The city Site of Capital of Kingdom Zheng and Han is located in the country of",
+        "answer": "Han",
+        "id": 182
+    },
+    {
+        "index": 183,
+        "prompt": "The city Pindi Bhattian is located in the country of",
+        "answer": "Punjab",
+        "id": 183
+    },
+    {
+        "index": 184,
+        "prompt": "The city Wanggeom-seong is located in the country of",
+        "answer": "Gojoseon",
+        "id": 184
+    },
+    {
+        "index": 185,
+        "prompt": "The city Hypaipa is located in the country of",
+        "answer": "Lydia",
+        "id": 185
+    },
+    {
+        "index": 186,
+        "prompt": "The city Allenstein is located in the country of",
+        "answer": "Prussia",
+        "id": 186
+    },
+    {
+        "index": 187,
+        "prompt": "The city Anziliya is located in the country of",
+        "answer": "Kaskians",
+        "id": 187
+    },
+    {
+        "index": 188,
+        "prompt": "The city Dankusna is located in the country of",
+        "answer": "Hatti",
+        "id": 188
+    },
+    {
+        "index": 189,
+        "prompt": "The city Lhasa is located in the country of",
+        "answer": "Tibet",
+        "id": 189
+    },
+    {
+        "index": 190,
+        "prompt": "The city Velké Brno is located in the country of",
+        "answer": "Czechoslovakia",
+        "id": 190
+    },
+    {
+        "index": 191,
+        "prompt": "The city Badaca is located in the country of",
+        "answer": "Elam",
+        "id": 191
+    },
+    {
+        "index": 192,
+        "prompt": "The city Venasa is located in the country of",
+        "answer": "Cappadocia",
+        "id": 192
+    },
+    {
+        "index": 193,
+        "prompt": "The city Gerasa is located in the country of",
+        "answer": "Judaea",
+        "id": 193
+    },
+    {
+        "index": 1,
+        "prompt": "The city Juba is located in the country of",
+        "answer": "South Sudan",
+        "id": 194
+    },
+    {
+        "index": 2,
+        "prompt": "The city Birmingham is located in the country of",
+        "answer": "United Kingdom",
+        "id": 195
+    },
+    {
+        "index": 3,
+        "prompt": "The city Nassau is located in the country of",
+        "answer": "The Bahamas",
+        "id": 196
+    },
+    {
+        "index": 4,
+        "prompt": "The city San José is located in the country of",
+        "answer": "Costa Rica",
+        "id": 197
+    },
+    {
+        "index": 5,
+        "prompt": "The city Banjul is located in the country of",
+        "answer": "The Gambia",
+        "id": 198
+    },
+    {
+        "index": 6,
+        "prompt": "The city Praia is located in the country of",
+        "answer": "Cape Verde",
+        "id": 199
+    },
+    {
+        "index": 7,
+        "prompt": "The city Freetown is located in the country of",
+        "answer": "Sierra Leone",
+        "id": 200
+    },
+    {
+        "index": 8,
+        "prompt": "The city Malabo is located in the country of",
+        "answer": "Equatorial Guinea",
+        "id": 201
+    },
+    {
+        "index": 9,
+        "prompt": "The city Bangui is located in the country of",
+        "answer": "Central African Republic",
+        "id": 202
+    },
+    {
+        "index": 10,
+        "prompt": "The city Kinshasa is located in the country of",
+        "answer": "Democratic Republic of the Congo",
+        "id": 203
+    },
+    {
+        "index": 11,
+        "prompt": "The city Brazzaville is located in the country of",
+        "answer": "Republic of the Congo",
+        "id": 204
+    },
+    {
+        "index": 12,
+        "prompt": "The city São Tomé is located in the country of",
+        "answer": "São Tomé and Príncipe",
+        "id": 205
+    },
+    {
+        "index": 13,
+        "prompt": "The city Fujairah is located in the country of",
+        "answer": "United Arab Emirates",
+        "id": 206
+    },
+    {
+        "index": 14,
+        "prompt": "The city Stellenbosch is located in the country of",
+        "answer": "South Africa",
+        "id": 207
+    },
+    {
+        "index": 15,
+        "prompt": "The city Jericho is located in the country of",
+        "answer": "State of Palestine",
+        "id": 208
+    },
+    {
+        "index": 16,
+        "prompt": "The city Anuradhapura is located in the country of",
+        "answer": "Sri Lanka",
+        "id": 209
+    },
+    {
+        "index": 17,
+        "prompt": "The city Bethlehem is located in the country of",
+        "answer": "Byzantine Empire",
+        "id": 210
+    },
+    {
+        "index": 18,
+        "prompt": "The city Bethlehem is located in the country of",
+        "answer": "Ottoman Empire",
+        "id": 211
+    },
+    {
+        "index": 19,
+        "prompt": "The city Bethlehem is located in the country of",
+        "answer": "Mandatory Palestine",
+        "id": 212
+    },
+    {
+        "index": 20,
+        "prompt": "The city Lhasa is located in the country of",
+        "answer": "People's Republic of China",
+        "id": 213
+    },
+    {
+        "index": 21,
+        "prompt": "The city New York City is located in the country of",
+        "answer": "United States of America",
+        "id": 214
+    },
+    {
+        "index": 22,
+        "prompt": "The city Skopje is located in the country of",
+        "answer": "North Macedonia",
+        "id": 215
+    },
+    {
+        "index": 23,
+        "prompt": "The city Abidjan is located in the country of",
+        "answer": "Ivory Coast",
+        "id": 216
+    },
+    {
+        "index": 24,
+        "prompt": "The city San Marino is located in the country of",
+        "answer": "San Marino",
+        "id": 217
+    },
+    {
+        "index": 25,
+        "prompt": "The city Ho Chi Minh City is located in the country of",
+        "answer": "Republic of Vietnam",
+        "id": 218
+    },
+    {
+        "index": 26,
+        "prompt": "The city Busan is located in the country of",
+        "answer": "South Korea",
+        "id": 219
+    },
+    {
+        "index": 27,
+        "prompt": "The city Constantinople is located in the country of",
+        "answer": "Latin Empire",
+        "id": 220
+    },
+    {
+        "index": 28,
+        "prompt": "The city Constantinople is located in the country of",
+        "answer": "Ancient Rome",
+        "id": 221
+    },
+    {
+        "index": 29,
+        "prompt": "The city Pyongyang is located in the country of",
+        "answer": "North Korea",
+        "id": 222
+    },
+    {
+        "index": 30,
+        "prompt": "The city Sarajevo is located in the country of",
+        "answer": "Bosnia and Herzegovina",
+        "id": 223
+    },
+    {
+        "index": 31,
+        "prompt": "The city Lleida is located in the country of",
+        "answer": "Principality of Catalonia",
+        "id": 224
+    },
+    {
+        "index": 32,
+        "prompt": "The city Napier is located in the country of",
+        "answer": "New Zealand",
+        "id": 225
+    },
+    {
+        "index": 33,
+        "prompt": "The city Port Blair is located in the country of",
+        "answer": "British Raj",
+        "id": 226
+    },
+    {
+        "index": 34,
+        "prompt": "The city Kyrenia is located in the country of",
+        "answer": "Northern Cyprus",
+        "id": 227
+    },
+    {
+        "index": 35,
+        "prompt": "The city Drogheda is located in the country of",
+        "answer": "Republic of Ireland",
+        "id": 228
+    },
+    {
+        "index": 36,
+        "prompt": "The city Karlovy Vary is located in the country of",
+        "answer": "Czech Republic",
+        "id": 229
+    },
+    {
+        "index": 37,
+        "prompt": "The city Layla is located in the country of",
+        "answer": "Saudi Arabia",
+        "id": 230
+    },
+    {
+        "index": 38,
+        "prompt": "The city Jamestown is located in the country of",
+        "answer": "Saint Helena, Ascension and Tristan da Cunha",
+        "id": 231
+    },
+    {
+        "index": 39,
+        "prompt": "The city Santo Domingo is located in the country of",
+        "answer": "Dominican Republic",
+        "id": 232
+    },
+    {
+        "index": 40,
+        "prompt": "The city Sarai is located in the country of",
+        "answer": "Golden Horde",
+        "id": 233
+    },
+    {
+        "index": 41,
+        "prompt": "The city Ekibastuz is located in the country of",
+        "answer": "Soviet Union",
+        "id": 234
+    },
+    {
+        "index": 42,
+        "prompt": "The city Ekibastuz is located in the country of",
+        "answer": "Russian Empire",
+        "id": 235
+    },
+    {
+        "index": 43,
+        "prompt": "The city Goroka is located in the country of",
+        "answer": "Papua New Guinea",
+        "id": 236
+    },
+    {
+        "index": 44,
+        "prompt": "The city Dvin is located in the country of",
+        "answer": "Persian Armenia",
+        "id": 237
+    },
+    {
+        "index": 45,
+        "prompt": "The city Koudougou is located in the country of",
+        "answer": "Burkina Faso",
+        "id": 238
+    },
+    {
+        "index": 46,
+        "prompt": "The city Pitsunda is located in the country of",
+        "answer": "Autonomous Republic of Abkhazia",
+        "id": 239
+    },
+    {
+        "index": 47,
+        "prompt": "The city Rîbnița is located in the country of",
+        "answer": "Ukrainian Soviet Socialist Republic",
+        "id": 240
+    },
+    {
+        "index": 48,
+        "prompt": "The city Rîbnița is located in the country of",
+        "answer": "Russian Republic",
+        "id": 241
+    },
+    {
+        "index": 49,
+        "prompt": "The city Rîbnița is located in the country of",
+        "answer": "Polish–Lithuanian Commonwealth",
+        "id": 242
+    },
+    {
+        "index": 50,
+        "prompt": "The city Rîbnița is located in the country of",
+        "answer": "Kingdom of Romania",
+        "id": 243
+    },
+    {
+        "index": 51,
+        "prompt": "The city Saint John's is located in the country of",
+        "answer": "Antigua and Barbuda",
+        "id": 244
+    },
+    {
+        "index": 52,
+        "prompt": "The city Port of Spain is located in the country of",
+        "answer": "Trinidad and Tobago",
+        "id": 245
+    },
+    {
+        "index": 53,
+        "prompt": "The city Sukhumi is located in the country of",
+        "answer": "Kingdom of Georgia",
+        "id": 246
+    },
+    {
+        "index": 54,
+        "prompt": "The city Sukhumi is located in the country of",
+        "answer": "Democratic Republic of Georgia",
+        "id": 247
+    },
+    {
+        "index": 55,
+        "prompt": "The city Sukhumi is located in the country of",
+        "answer": "Socialist Soviet Republic of Abkhazia",
+        "id": 248
+    },
+    {
+        "index": 56,
+        "prompt": "The city Sukhumi is located in the country of",
+        "answer": "Kingdom of Abkhazia",
+        "id": 249
+    },
+    {
+        "index": 57,
+        "prompt": "The city Sukhumi is located in the country of",
+        "answer": "Transcaucasian Democratic Federative Republic",
+        "id": 250
+    },
+    {
+        "index": 58,
+        "prompt": "The city Sukhumi is located in the country of",
+        "answer": "Transcaucasian Socialist Federative Soviet Republic",
+        "id": 251
+    },
+    {
+        "index": 59,
+        "prompt": "The city Sukhumi is located in the country of",
+        "answer": "Kingdom of Imereti",
+        "id": 252
+    },
+    {
+        "index": 60,
+        "prompt": "The city Sukhumi is located in the country of",
+        "answer": "Socialist Soviet Republic of Georgia",
+        "id": 253
+    },
+    {
+        "index": 61,
+        "prompt": "The city Honiara is located in the country of",
+        "answer": "Solomon Islands",
+        "id": 254
+    },
+    {
+        "index": 62,
+        "prompt": "The city Basseterre is located in the country of",
+        "answer": "Saint Kitts and Nevis",
+        "id": 255
+    },
+    {
+        "index": 63,
+        "prompt": "The city Kingstown is located in the country of",
+        "answer": "Saint Vincent and the Grenadines",
+        "id": 256
+    },
+    {
+        "index": 64,
+        "prompt": "The city Castries is located in the country of",
+        "answer": "Saint Lucia",
+        "id": 257
+    },
+    {
+        "index": 65,
+        "prompt": "The city Palikir is located in the country of",
+        "answer": "Federated States of Micronesia",
+        "id": 258
+    },
+    {
+        "index": 66,
+        "prompt": "The city Rîbnița is located in the country of",
+        "answer": "Ukrainian People's Republic",
+        "id": 259
+    },
+    {
+        "index": 67,
+        "prompt": "The city Rîbnița is located in the country of",
+        "answer": "Ukrainian State",
+        "id": 260
+    },
+    {
+        "index": 68,
+        "prompt": "The city Rîbnița is located in the country of",
+        "answer": "Russian Socialist Federative Soviet Republic",
+        "id": 261
+    },
+    {
+        "index": 69,
+        "prompt": "The city Bobo-Dioulasso is located in the country of",
+        "answer": "Republic of Upper Volta",
+        "id": 262
+    },
+    {
+        "index": 70,
+        "prompt": "The city Bobo-Dioulasso is located in the country of",
+        "answer": "French Upper Volta",
+        "id": 263
+    },
+    {
+        "index": 71,
+        "prompt": "The city Gali is located in the country of",
+        "answer": "Republic of Abkhazia",
+        "id": 264
+    },
+    {
+        "index": 72,
+        "prompt": "The city Anenii Noi is located in the country of",
+        "answer": "Moldavian Democratic Republic",
+        "id": 265
+    },
+    {
+        "index": 73,
+        "prompt": "The city Anenii Noi is located in the country of",
+        "answer": "Principality of Moldavia",
+        "id": 266
+    },
+    {
+        "index": 74,
+        "prompt": "The city Huining Prefecture is located in the country of",
+        "answer": "Jin dynasty",
+        "id": 267
+    },
+    {
+        "index": 75,
+        "prompt": "The city Toplița is located in the country of",
+        "answer": "Austrian Empire",
+        "id": 268
+    },
+    {
+        "index": 76,
+        "prompt": "The city Toplița is located in the country of",
+        "answer": "Kingdom of Hungary",
+        "id": 269
+    },
+    {
+        "index": 77,
+        "prompt": "The city Toplița is located in the country of",
+        "answer": "First Hungarian Republic",
+        "id": 270
+    },
+    {
+        "index": 78,
+        "prompt": "The city Toplița is located in the country of",
+        "answer": "Socialist Republic of Romania",
+        "id": 271
+    },
+    {
+        "index": 79,
+        "prompt": "The city Toplița is located in the country of",
+        "answer": "Romanian People's Republic",
+        "id": 272
+    },
+    {
+        "index": 80,
+        "prompt": "The city Atil is located in the country of",
+        "answer": "Khazar Khaganate",
+        "id": 273
+    },
+    {
+        "index": 81,
+        "prompt": "The city Same is located in the country of",
+        "answer": "East Timor",
+        "id": 274
+    },
+    {
+        "index": 82,
+        "prompt": "The city Tskhinvali is located in the country of",
+        "answer": "South Ossetia",
+        "id": 275
+    },
+    {
+        "index": 83,
+        "prompt": "The city Bitlis is located in the country of",
+        "answer": "Principality of Bitlis",
+        "id": 276
+    },
+    {
+        "index": 84,
+        "prompt": "The city Suakin is located in the country of",
+        "answer": "Anglo-Egyptian Sudan",
+        "id": 277
+    },
+    {
+        "index": 85,
+        "prompt": "The city Al-Madinat al-Zahira is located in the country of",
+        "answer": "Caliphate of Córdoba",
+        "id": 278
+    },
+    {
+        "index": 86,
+        "prompt": "The city San Francisco Gotera is located in the country of",
+        "answer": "El Salvador",
+        "id": 279
+    },
+    {
+        "index": 87,
+        "prompt": "The city Vulcănești is located in the country of",
+        "answer": "United Principalities of Moldavia and Wallachia",
+        "id": 280
+    },
+    {
+        "index": 88,
+        "prompt": "The city Gabú is located in the country of",
+        "answer": "Portuguese Guinea",
+        "id": 281
+    },
+    {
+        "index": 89,
+        "prompt": "The city Kingston upon Hull is located in the country of",
+        "answer": "Kingdom of England",
+        "id": 282
+    },
+    {
+        "index": 90,
+        "prompt": "The city Stepanakert is located in the country of",
+        "answer": "Republic of Artsakh",
+        "id": 283
+    },
+    {
+        "index": 91,
+        "prompt": "The city Boujdour is located in the country of",
+        "answer": "Western Sahara",
+        "id": 284
+    },
+    {
+        "index": 92,
+        "prompt": "The city Zarqa is located in the country of",
+        "answer": "Emirate of Transjordan",
+        "id": 285
+    },
+    {
+        "index": 93,
+        "prompt": "The city Nehardea is located in the country of",
+        "answer": "Sasanian Empire",
+        "id": 286
+    },
+    {
+        "index": 94,
+        "prompt": "The city Hanseongbu is located in the country of",
+        "answer": "Korean Empire",
+        "id": 287
+    },
+    {
+        "index": 95,
+        "prompt": "The city Gwalior (Goparastra) is located in the country of",
+        "answer": "Mughal Empire",
+        "id": 288
+    },
+    {
+        "index": 96,
+        "prompt": "The city George Town is located in the country of",
+        "answer": "Cayman Islands",
+        "id": 289
+    },
+    {
+        "index": 97,
+        "prompt": "The city Lilibaeum is located in the country of",
+        "answer": "Ancient Carthage",
+        "id": 290
+    },
+    {
+        "index": 98,
+        "prompt": "The city Strzelce Krajeńskie is located in the country of",
+        "answer": "Nazi Germany",
+        "id": 291
+    },
+    {
+        "index": 99,
+        "prompt": "The city Strzelce Krajeńskie is located in the country of",
+        "answer": "Weimar Republic",
+        "id": 292
+    },
+    {
+        "index": 100,
+        "prompt": "The city Strzelce Krajeńskie is located in the country of",
+        "answer": "German Empire",
+        "id": 293
+    },
+    {
+        "index": 101,
+        "prompt": "The city Saint Peter Port is located in the country of",
+        "answer": "Bailiwick of Guernsey",
+        "id": 294
+    },
+    {
+        "index": 102,
+        "prompt": "The city Bulawayo is located in the country of",
+        "answer": "Southern Rhodesia",
+        "id": 295
+    },
+    {
+        "index": 103,
+        "prompt": "The city Bulawayo is located in the country of",
+        "answer": "Zimbabwe Rhodesia",
+        "id": 296
+    },
+    {
+        "index": 104,
+        "prompt": "The city Xianyang is located in the country of",
+        "answer": "Qin dynasty",
+        "id": 297
+    },
+    {
+        "index": 105,
+        "prompt": "The city Christiania/Kristiania is located in the country of",
+        "answer": "Union between Sweden and Norway",
+        "id": 298
+    },
+    {
+        "index": 106,
+        "prompt": "The city Kuype of Brussels is located in the country of",
+        "answer": "Duchy of Brabant",
+        "id": 299
+    },
+    {
+        "index": 107,
+        "prompt": "The city Celaenae is located in the country of",
+        "answer": "Persian Empire",
+        "id": 300
+    },
+    {
+        "index": 108,
+        "prompt": "The city County city (council system) is located in the country of",
+        "answer": "People's Republic of Hungary",
+        "id": 301
+    },
+    {
+        "index": 109,
+        "prompt": "The city Andreev is located in the country of",
+        "answer": "Kingdom of Galicia–Volhynia",
+        "id": 302
+    },
+    {
+        "index": 110,
+        "prompt": "The city Zhaoge is located in the country of",
+        "answer": "Shang dynasty",
+        "id": 303
+    },
+    {
+        "index": 111,
+        "prompt": "The city Hankou is located in the country of",
+        "answer": "Qing dynasty",
+        "id": 304
+    },
+    {
+        "index": 112,
+        "prompt": "The city Hankou is located in the country of",
+        "answer": "Wang Jingwei regime",
+        "id": 305
+    },
+    {
+        "index": 113,
+        "prompt": "The city Hankou is located in the country of",
+        "answer": "Reformed Government of the Republic of China",
+        "id": 306
+    },
+    {
+        "index": 114,
+        "prompt": "The city Hankou is located in the country of",
+        "answer": "Republic of China",
+        "id": 307
+    },
+    {
+        "index": 115,
+        "prompt": "The city Ye is located in the country of",
+        "answer": "Empire of China",
+        "id": 308
+    },
+    {
+        "index": 116,
+        "prompt": "The city Smara is located in the country of",
+        "answer": "Spanish Sahara",
+        "id": 309
+    },
+    {
+        "index": 117,
+        "prompt": "The city Liao Nanjing is located in the country of",
+        "answer": "Liao dynasty",
+        "id": 310
+    },
+    {
+        "index": 118,
+        "prompt": "The city Mauritsstad is located in the country of",
+        "answer": "Dutch Brazil",
+        "id": 311
+    },
+    {
+        "index": 119,
+        "prompt": "The city Eburoi is located in the country of",
+        "answer": "Roman Empire",
+        "id": 312
+    },
+    {
+        "index": 120,
+        "prompt": "The city Karta is located in the country of",
+        "answer": "Mataram Sultanate",
+        "id": 313
+    },
+    {
+        "index": 121,
+        "prompt": "The city Gladbach-Rheydt is located in the country of",
+        "answer": "German Reich",
+        "id": 314
+    },
+    {
+        "index": 122,
+        "prompt": "The city Nukat is located in the country of",
+        "answer": "Tashkent Khanate",
+        "id": 315
+    },
+    {
+        "index": 123,
+        "prompt": "The city Cartagena City is located in the country of",
+        "answer": "Crown of Aragon",
+        "id": 316
+    },
+    {
+        "index": 124,
+        "prompt": "The city Cartagena City is located in the country of",
+        "answer": "Crown of Castile",
+        "id": 317
+    },
+    {
+        "index": 125,
+        "prompt": "The city Zaragoza City is located in the country of",
+        "answer": "Kingdom of León",
+        "id": 318
+    },
+    {
+        "index": 126,
+        "prompt": "The city Zaragoza City is located in the country of",
+        "answer": "Kingdom of Aragon",
+        "id": 319
+    },
+    {
+        "index": 127,
+        "prompt": "The city Fort Lamy is located in the country of",
+        "answer": "French West Africa",
+        "id": 320
+    },
+    {
+        "index": 128,
+        "prompt": "The city Qabatiya is located in the country of",
+        "answer": "Palestinian territories",
+        "id": 321
+    },
+    {
+        "index": 129,
+        "prompt": "The city list of cities and towns in Sokoto State is located in the country of",
+        "answer": "Sokoto State",
+        "id": 322
+    },
+    {
+        "index": 130,
+        "prompt": "The city National Marian Shrine, Mariamabad is located in the country of",
+        "answer": "Dominion of Pakistan",
+        "id": 323
+    },
+    {
+        "index": 131,
+        "prompt": "The city Hollandia (town) is located in the country of",
+        "answer": "Netherlands New Guinea",
+        "id": 324
+    },
+    {
+        "index": 132,
+        "prompt": "The city Nanjing is located in the country of",
+        "answer": "Ming dynasty",
+        "id": 325
+    },
+    {
+        "index": 133,
+        "prompt": "The city İske Qazan is located in the country of",
+        "answer": "Volga Bulgaria",
+        "id": 326
+    },
+    {
+        "index": 134,
+        "prompt": "The city Pangkham is located in the country of",
+        "answer": "Wa State",
+        "id": 327
+    },
+    {
+        "index": 135,
+        "prompt": "The city Zoan is located in the country of",
+        "answer": "Ancient Egypt",
+        "id": 328
+    },
+    {
+        "index": 136,
+        "prompt": "The city Abala is located in the country of",
+        "answer": "Ethiopian Empire",
+        "id": 329
+    },
+    {
+        "index": 137,
+        "prompt": "The city Abkua is located in the country of",
+        "answer": "Sennar Sultanate",
+        "id": 330
+    },
+    {
+        "index": 138,
+        "prompt": "The city Rucunshu is located in the country of",
+        "answer": "Kingdom of Rwanda",
+        "id": 331
+    },
+    {
+        "index": 139,
+        "prompt": "The city Tianjing is located in the country of",
+        "answer": "Taiping Heavenly Kingdom",
+        "id": 332
+    },
+    {
+        "index": 140,
+        "prompt": "The city Royal city of the Kingdom of Bohemia is located in the country of",
+        "answer": "Kingdom of Bohemia",
+        "id": 333
+    },
+    {
+        "index": 141,
+        "prompt": "The city Tifsa is located in the country of",
+        "answer": "Kingdom of Israel",
+        "id": 334
+    },
+    {
+        "index": 142,
+        "prompt": "The city The Old City of Luoyang in Han and Wei Dynasties is located in the country of",
+        "answer": "Cao Wei",
+        "id": 335
+    },
+    {
+        "index": 143,
+        "prompt": "The city The Old City of Luoyang in Han and Wei Dynasties is located in the country of",
+        "answer": "Northern Wei",
+        "id": 336
+    },
+    {
+        "index": 144,
+        "prompt": "The city The Old City of Luoyang in Han and Wei Dynasties is located in the country of",
+        "answer": "Eastern Han",
+        "id": 337
+    },
+    {
+        "index": 145,
+        "prompt": "The city Adrapana is located in the country of",
+        "answer": "Parthian Empire",
+        "id": 338
+    },
+    {
+        "index": 146,
+        "prompt": "The city Badaca is located in the country of",
+        "answer": "Seleucid Empire",
+        "id": 339
+    },
+    {
+        "index": 147,
+        "prompt": "The city Karkh is located in the country of",
+        "answer": "Abbasid Caliphate",
+        "id": 340
+    },
+    {
+        "index": 148,
+        "prompt": "The city Makassar is located in the country of",
+        "answer": "Dutch East Indies",
+        "id": 341
+    },
+    {
+        "index": 149,
+        "prompt": "The city Enoch is located in the country of",
+        "answer": "Land of Nod",
+        "id": 342
+    },
+    {
+        "index": 150,
+        "prompt": "The city Khanbaliq is located in the country of",
+        "answer": "Yuan dynasty",
+        "id": 343
+    },
+    {
+        "index": 151,
+        "prompt": "The city Ostan is located in the country of",
+        "answer": "Kingdom of Vaspurakan",
+        "id": 344
+    },
+    {
+        "index": 152,
+        "prompt": "The city Praisos is located in the country of",
+        "answer": "Ancient Crete",
+        "id": 345
+    },
+    {
+        "index": 153,
+        "prompt": "The city Altona is located in the country of",
+        "answer": "Holy Roman Empire",
+        "id": 346
+    },
+    {
+        "index": 154,
+        "prompt": "The city Altona is located in the country of",
+        "answer": "North German Confederation",
+        "id": 347
+    },
+    {
+        "index": 155,
+        "prompt": "The city Altona is located in the country of",
+        "answer": "German Confederation",
+        "id": 348
+    },
+    {
+        "index": 156,
+        "prompt": "The city Saigon is located in the country of",
+        "answer": "French Indochina",
+        "id": 349
+    },
+    {
+        "index": 157,
+        "prompt": "The city Saigon is located in the country of",
+        "answer": "Provisional Revolutionary Government of the Republic of South Vietnam",
+        "id": 350
+    },
+    {
+        "index": 158,
+        "prompt": "The city Saigon is located in the country of",
+        "answer": "State of Vietnam",
+        "id": 351
+    },
+    {
+        "index": 159,
+        "prompt": "The city Bellamarin is located in the country of",
+        "answer": "Marinid dynasty",
+        "id": 352
+    },
+    {
+        "index": 160,
+        "prompt": "The city Suduragi is located in the country of",
+        "answer": "Kingdom of Armenia",
+        "id": 353
+    },
+    {
+        "index": 161,
+        "prompt": "The city Amrupa city is located in the country of",
+        "answer": "Al Sudan",
+        "id": 354
+    },
+    {
+        "index": 162,
+        "prompt": "The city Hamwic is located in the country of",
+        "answer": "Kingdom of Wessex",
+        "id": 355
+    },
+    {
+        "index": 163,
+        "prompt": "The city Ma'ale Adumim is located in the country of",
+        "answer": "West Bank",
+        "id": 356
+    }
+]
