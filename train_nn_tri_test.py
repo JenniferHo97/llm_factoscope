@@ -119,7 +119,105 @@ class CombinedTriNet(nn.Module):
         embedding = F.normalize(x, p=2, dim=1)
 
         return embedding
+    
+    
+class ActRankTriNet(nn.Module):
+    def __init__(self, act, grunet, emd_dim, feature_dim=64):
+        super(ActRankTriNet, self).__init__()
+        self.act = act
+        self.grunet = grunet
 
+        self.fc1 = nn.Linear(emd_dim*2, feature_dim)
+
+    def forward(self, x, act_dim):
+
+        x_activation, x_rank = x[:, :, :, :act_dim], x[:, :, :, act_dim:(act_dim+1)]
+        
+        x1 = self.act(x_activation)
+        x2 = self.grunet(x_rank)
+
+        x = torch.cat((x1, x2), dim=1)
+
+        x = F.relu(self.fc1(x))
+        embedding = F.normalize(x, p=2, dim=1)
+
+        return embedding
+
+class ActRankTopkIdTriNet(nn.Module):
+    def __init__(self, act, grunet, embdistance, emd_dim, feature_dim=64):
+        super(ActRankTopkIdTriNet, self).__init__()
+        self.act = act
+        self.grunet = grunet
+        self.embdistance = embdistance
+
+        self.fc1 = nn.Linear(emd_dim*3, feature_dim)
+
+    def forward(self, x, act_dim):
+
+        x_activation, x_rank, x_embdis = x[:, :, :, :act_dim], x[:, :, :, act_dim:(act_dim+1)], x[:, :, :, (act_dim+1):(act_dim+11)]
+        
+        x1 = self.act(x_activation)
+        x2 = self.grunet(x_rank)
+        x3 = self.embdistance(x_embdis)
+
+        x = torch.cat((x1, x2, x3), dim=1)
+
+        x = F.relu(self.fc1(x))
+        embedding = F.normalize(x, p=2, dim=1)
+
+        return embedding
+        
+class ActTriNet(nn.Module):
+    def __init__(self, act):
+        super(ActTriNet, self).__init__()
+        self.act = act
+
+    def forward(self, x, act_dim):
+
+        x_activation= x[:, :, :, :act_dim]
+        x = self.act(x_activation)
+        embedding = F.normalize(x, p=2, dim=1)
+
+        return embedding
+    
+class RankTriNet(nn.Module):
+    def __init__(self, grunet):
+        super(RankTriNet, self).__init__()
+        self.grunet = grunet
+
+    def forward(self, x, act_dim):
+
+        x_rank= x[:, :, :, act_dim:(act_dim+1)]
+        x = self.grunet(x_rank)
+        embedding = F.normalize(x, p=2, dim=1)
+
+        return embedding
+
+class TopkIdTriNet(nn.Module):
+    def __init__(self, embdistance):
+        super(TopkIdTriNet, self).__init__()
+        self.embdistance = embdistance
+
+    def forward(self, x, act_dim):
+
+        x_embdis= x[:, :, :, (act_dim+1):(act_dim+11)]
+        x = self.embdistance(x_embdis)
+        embedding = F.normalize(x, p=2, dim=1)
+
+        return embedding
+    
+class TopkProbTriNet(nn.Module):
+    def __init__(self, prob):
+        super(TopkProbTriNet, self).__init__()
+        self.prob = prob
+
+    def forward(self, x, act_dim):
+
+        x_prob= x[:, :, :, (act_dim+11):]
+        x = self.prob(x_prob)
+        embedding = F.normalize(x, p=2, dim=1)
+
+        return embedding
 
 def train_and_evaluate_model(model, train_loader, test_loader, support_loader, save_path, act_dim, squeeze_dim=1, epochs=30):
 
@@ -321,7 +419,7 @@ def main(model_name, split_list, support_size, emb_dim=24):
 
         # init model
         act_resnet_model = models.resnet18(
-            pretrained=False, num_classes=emb_dim).cuda()
+        pretrained=False, num_classes=emb_dim).cuda()
         act_resnet_model.conv1 = nn.Conv2d(
             1, 64, kernel_size=7, stride=2, padding=3, bias=False).cuda()
 
@@ -337,12 +435,37 @@ def main(model_name, split_list, support_size, emb_dim=24):
         prob_resnet_model.conv1 = nn.Conv2d(
             1, 64, kernel_size=7, stride=2, padding=3, bias=False).cuda()
 
-        combined_model = CombinedTriNet(
-            act_resnet_model, grunet_model, emb_dist_resnet_model, prob_resnet_model, emb_dim).cuda()
+        act_model = ActTriNet(act_resnet_model).cuda()
+        actrank_model = ActRankTriNet(act_resnet_model, grunet_model, emb_dim).cuda()
+        actranktopkid_model = ActRankTopkIdTriNet(act_resnet_model, grunet_model, emb_dist_resnet_model, emb_dim).cuda()
+        combined_model = CombinedTriNet(act_resnet_model, grunet_model, emb_dist_resnet_model, prob_resnet_model, emb_dim).cuda()
 
         # train the model
+        print('act:')
+        train_and_evaluate_model(act_model, train_loader, test_loader,
+                                support_loader, './act_trinet.pth'.format(model_name), act_dim)
+        
+        print('rank:')
+        train_and_evaluate_model(actrank_model, train_loader, test_loader,
+                                support_loader, './actrank_trinet.pth'.format(model_name), act_dim)
+        
+        test_model(act_model, test_loader,
+                support_loader, act_dim, squeeze_dim=1)
+        actrank_model = torch.load('./actrank_trinet.pth'.format(model_name)) 
+        test_model(actrank_model, test_loader,
+                support_loader, act_dim, squeeze_dim=1)
+        
+        actranktopkid_model = ActRankTopkIdTriNet(actrank_model.act, actrank_model.grunet, emb_dist_resnet_model, emb_dim).cuda()  
+
+        print('topk id:')
+        train_and_evaluate_model(actranktopkid_model, train_loader, test_loader,
+                                support_loader, './actranktopkid_trinet.pth'.format(model_name), act_dim)
+
+        combined_model = CombinedTriNet(actranktopkid_model.act, actranktopkid_model.grunet, actranktopkid_model.embdistance, prob_resnet_model, emb_dim).cuda()  
+        
+        print('topk prob:')
         train_and_evaluate_model(combined_model, train_loader, test_loader,
-                                 support_loader, './features/{}/combined_trinet_test.pth'.format(model_name), act_dim)
+                                support_loader, './topkprob_trinet.pth'.format(model_name), act_dim)
     else:
         with h5py.File('./features/{}/test_support_data.h5'.format(model_name), 'r') as f:
             test_data_features = f['test_data_features'][:]
