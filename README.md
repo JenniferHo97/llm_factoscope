@@ -1,6 +1,6 @@
 # LLM Factoscope
 
-We are excited to share the code and datasets from our study on the LLM Factoscope, making them publicly available for further research and development. Our repository, containing all necessary materials, is accessible at [this link](https://github.com/JenniferHo97/llm_factoscope).
+We are excited to share the code and datasets from our study on the LLM Factoscope, making them publicly available for further research and development.
 
 ## Models Used
 Our experiments leverage several Large Language Models (LLMs) from Huggingface, a reputable platform hosting a diverse array of LLMs. The specific models utilized in our study include:
